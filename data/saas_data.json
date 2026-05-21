@@ -1,0 +1,134 @@
+[
+  {
+    "saas_id": "cursor",
+    "toolName": "Cursor",
+    "category": "AI Code Editors",
+    "startingPrice": "$20/month",
+    "pros": [
+      "Write, edit, and chat with your codebase",
+      "Built-in Claude 3.5 Sonnet and GPT-4o",
+      "Predicts your next edit instantly",
+      "Multi-file context understanding"
+    ],
+    "cons": [
+      "Requires internet connection",
+      "Premium features require subscription",
+      "Fewer extensions than VS Code"
+    ],
+    "affiliateUrl": "https://www.cursor.com/?via=saaspole",
+    "topAlternatives": [
+      {
+        "name": "GitHub Copilot",
+        "startingPrice": "$10/month",
+        "bestFor": "Developers already on GitHub",
+        "website": "https://github.com/features/copilot"
+      },
+      {
+        "name": "Continue.dev",
+        "startingPrice": "Free (Open Source)",
+        "bestFor": "Teams wanting local AI coding",
+        "website": "https://continue.dev"
+      },
+      {
+        "name": "Codeium",
+        "startingPrice": "Free (Individual)",
+        "bestFor": "Individuals seeking free AI autocomplete",
+        "website": "https://codeium.com"
+      },
+      {
+        "name": "Amazon CodeWhisperer",
+        "startingPrice": "Free (Individual)",
+        "bestFor": "AWS ecosystem developers",
+        "website": "https://aws.amazon.com/codewhisperer"
+      }
+    ]
+  },
+  {
+    "saas_id": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "category": "AI Code Editors",
+    "startingPrice": "$10/month",
+    "pros": [
+      "Deep GitHub ecosystem integration",
+      "Supports dozens of languages",
+      "Real-time code suggestions",
+      "Chat interface for debugging"
+    ],
+    "cons": [
+      "Requires internet connection",
+      "Limited free tier",
+      "Can suggest insecure code patterns"
+    ],
+    "affiliateUrl": "https://github.com/features/copilot?via=saaspole",
+    "topAlternatives": [
+      {
+        "name": "Cursor",
+        "startingPrice": "$20/month",
+        "bestFor": "AI-native coding experience",
+        "website": "https://cursor.com"
+      },
+      {
+        "name": "Tabnine",
+        "startingPrice": "$12/month",
+        "bestFor": "Teams needing on-premise AI",
+        "website": "https://tabnine.com"
+      },
+      {
+        "name": "Codeium",
+        "startingPrice": "Free (Individual)",
+        "bestFor": "Cost-sensitive developers",
+        "website": "https://codeium.com"
+      },
+      {
+        "name": "Amazon CodeWhisperer",
+        "startingPrice": "Free (Individual)",
+        "bestFor": "AWS developers needing free option",
+        "website": "https://aws.amazon.com/codewhisperer"
+      }
+    ]
+  },
+  {
+    "saas_id": "notion",
+    "toolName": "Notion",
+    "category": "Productivity & Documentation",
+    "startingPrice": "Free (Personal)",
+    "pros": [
+      "All-in-one docs, wikis, and databases",
+      "Powerful AI writing assistant built-in",
+      "Flexible page hierarchy and linking",
+      "Excellent collaboration features"
+    ],
+    "cons": [
+      "Offline mode is limited",
+      "Can get slow with large databases",
+      "Export options are limited"
+    ],
+    "affiliateUrl": "https://www.notion.so/?via=saaspole",
+    "topAlternatives": [
+      {
+        "name": "Confluence",
+        "startingPrice": "Free (up to 10 users)",
+        "bestFor": "Enterprise documentation needs",
+        "website": "https://www.atlassian.com/software/confluence"
+      },
+      {
+        "name": "Obsidian",
+        "startingPrice": "Free (Personal)",
+        "bestFor": "Power users wanting local-first notes",
+        "website": "https://obsidian.md"
+      },
+      {
+        "name": "Coda",
+        "startingPrice": "Free (Personal)",
+        "bestFor": "Teams wanting docs + spreadsheet hybrid",
+        "website": "https://coda.io"
+      },
+      {
+        "name": "ClickUp Docs",
+        "startingPrice": "Free (Unlimited)",
+        "bestFor": "Teams already using ClickUp for PM",
+        "website": "https://clickup.com"
+      }
+    ]
+  }
+]
